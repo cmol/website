@@ -36,6 +36,13 @@ title = "Claus Lensbøl - Telecommunications engineer"
   keybase = "cmol"
   #medium = "john.smith"
 
+#[params.actions.click]
+#  url  = "https://cmol.dk"
+#  name = "test"
+#[params.actions.clock]
+#  url  = "https://cmol.me"
+#  name = "tost"
+
 ## Footer Configurations
 [params.footer]
   copyright = "© 2019 Claus Lensbøl. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
