@@ -36,9 +36,9 @@ title = "Claus Lensbøl - Telecommunications engineer"
   keybase = "cmol"
   #medium = "john.smith"
 
-#[params.actions.click]
-#  url  = "https://cmol.dk"
-#  name = "test"
+[params.actions.click]
+  url  = "/files/cv.pdf"
+  name = "See my CV"
 #[params.actions.clock]
 #  url  = "https://cmol.me"
 #  name = "tost"
