@@ -34,16 +34,16 @@ title = "Claus Lensbøl - Telecommunications engineer"
   #instagram = "john.smith"
   #stackoverflow = "7919458"
   keybase = "cmol"
-  #medium = "john.smith"
+  medium = "@lensboel"
 
 [params.actions.click]
   url  = "/files/cv.pdf"
-  name = "See my CV"
+  name = "Review my CV"
 #[params.actions.clock]
 #  url  = "https://cmol.me"
 #  name = "tost"
 
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2019 Claus Lensbøl. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  copyright = "© 2020 Claus Lensbøl. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
