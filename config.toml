@@ -1,6 +1,6 @@
 theme = "awesome-identity"
 baseURL = "https://cmol.me"
-title = "Claus Lensbøl - Telecommunications engineer"
+title = "Claus Lensbøl - Telecommunication Software Engineer"
 
 
 ## Profile Configurations
@@ -8,7 +8,7 @@ title = "Claus Lensbøl - Telecommunications engineer"
   portrait = "/images/cmol-square.png"
   firstname = "Claus"
   lastname = "Lensbøl"
-  title = "Telecommunications Engineer"
+  title = "Telecommunication Software Engineer"
   #bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
 #
   #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
@@ -20,7 +20,7 @@ title = "Claus Lensbøl - Telecommunications engineer"
 
   A strong background in Linux and experience working with digital communication in various ways.
 
-  Interests lie in complex networks, mobile communication, realtime network synchronisation, software development, OpenSource, network protocols, multicast neworking, and data mining.
+  Interests lie in software development, OpenSource, network protocols, multicast neworking, complex networks, mobile communication, realtime network synchronisation, and data mining. 
 
   Good theoretical background, but not afraid of practical work. Works great independently as well as in teams. Social and outgoing.
   """
@@ -36,14 +36,17 @@ title = "Claus Lensbøl - Telecommunications engineer"
   keybase = "cmol"
   medium = "@lensboel"
 
-[params.actions.click]
+[params.actions.blog]
   url  = "/files/cv.pdf"
   name = "Review my CV"
+[params.actions.click]
+  url  = "https://blog.cmol.me"
+  name = "Read my blog posts"
 #[params.actions.clock]
 #  url  = "https://cmol.me"
 #  name = "tost"
 
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2020 Claus Lensbøl. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  copyright = "© 2021 Claus Lensbøl. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
