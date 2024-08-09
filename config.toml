@@ -5,7 +5,7 @@ title = "Claus Lensbøl - Telecommunication Software Engineer"
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/cmol-square.png"
+  portrait = "/images/claus-cols.jpg"
   firstname = "Claus"
   lastname = "Lensbøl"
   title = "Telecommunication Software Engineer"
@@ -48,5 +48,5 @@ title = "Claus Lensbøl - Telecommunication Software Engineer"
 
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2022 Claus Lensbøl. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  copyright = "© 2024 Claus Lensbøl. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
