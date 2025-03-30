@@ -16,13 +16,10 @@ title = "Claus Lensbøl - Telecommunication Software Engineer"
 #  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
 #  """
   bio = """
-  Claus Lensbøl is a collaborative engineer with a flair for all things internet and their implementations.
-
-  A strong background in Linux and experience working with digital communication in various ways, most recently with Canadian banking systems.
-
-  Interests lie in software development, OpenSource, network protocols, multicast neworking, complex networks, mobile communication, realtime network synchronisation, and data mining.
-
-  Good theoretical background, but not afraid of practical work. Works great independently as well as in teams. Social and outgoing.
+  Experienced Software Engineer specializing in Linux, networking, and digital communication systems. Strong expertise in designing and
+  optimizing complex system, from high speed network testers to Canadian banking integrations. Passionate about OpenSource, network protocols,
+  real‑time synchronization, and multicast networking. Combines deep theoretical knowledge with hands‑on implementation, delivering scalable
+  and efficient solutions. Works effectively both independently and in teams, bringing a collaborative and proactive approach.
   """
 
 [params.contacts]
